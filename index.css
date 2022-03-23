@@ -249,7 +249,7 @@ nav{
 
 .popmodel{
     opacity: 1;
-    position: absolute;
+    position: fixed;
     top: 20%;
     left: 50%;
     max-width: 500px;
